@@ -328,7 +328,7 @@ def update(frame):
     return point1, point2, point3,
 
 # Create the animation object
-anim = FuncAnimation(fig, update, frames = step, blit=True, interval = 10)
+anim = FuncAnimation(fig, update, frames = step, blit=True, interval = 1)
 
 ax.set_xlabel("x (kpc)")
 ax.set_ylabel("y (kpc)")
