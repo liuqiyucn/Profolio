@@ -4,3 +4,4 @@ This parent folder contains the listed academic projects from Qiyu(Leo) Liu's Re
 2. Optical Cavity
 3. Mice galaxies collision
 4. MCMC Gibbs Sampling
+5. NMR Two Qubits Grover and Deutsch-jozsa on Chloroform
